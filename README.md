@@ -22,12 +22,15 @@ Accidentally rolled with the wrong modifier? Need to use a Hero Point?
 Perfect for GMs who need to adjust a roll behind the scenes, or for handling mechanics like *Portent*.
 * **Right-Click** any die to open a dialog and manually set the face value (e.g., force a d20 to be a "20").
 * This feature handles Advantage/Disadvantage correctly (re-calculating the drop/keep logic).
+<img width="621" height="287" alt="image" src="https://github.com/user-attachments/assets/217cdbf2-0acd-4951-b914-a3d91322a61e" />
+
 
 ### 3. Retroactive Bonuses
 Forget to add *Bless*? Did the Bard use *Cutting Words* late?
 * Adds a **(+)** button to Attack, Damage, Save, and Ability Check headers in chat.
 * Opens a menu to select available bonuses from the actor (e.g., active effects) or enter a **Custom Bonus** (e.g., `+1d4` or `+5`).
 * Automatically calculates the new total and updates the card.
+<img width="747" height="412" alt="image" src="https://github.com/user-attachments/assets/60cdbcb9-f777-4008-9727-065ef6afe923" />
 
 ---
 
