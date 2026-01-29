@@ -1,3 +1,9 @@
+> **🤖 AI Content Disclosure**
+>
+> This package contains art, text, or software code produced using generative AI.
+>
+> *Generative AI tools were utilized for grammar checking, code checking, and debugging assistance. 
+
 # Ready Set Roll 5e Addon
 
 **Ready Set Roll 5e Addon** is an extension for the wonderfull [Ready Set Roll 5e](https://github.com/MangoFVTT/fvtt-ready-set-roll-5e) module. It adds interactive dice manipulation, allowing you to reroll dice by clicking them, manually "fudge" results, and apply retroactive bonuses (like *Sneak Attack* or *Bardic Inspiration*) directly from the chat card.
