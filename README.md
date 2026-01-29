@@ -13,7 +13,7 @@ Accidentally rolled with the wrong modifier? Need to use a Hero Point?
 * Automatically updates the total and any derived values (like Initiative or damage).
 
 ### 2. Manual "Fudge" (Set Die Value)
-Perfect for GMs who need to adjust a roll behind the scenes, or for handling mechanics like *Portent* or *Reliable Talent*.
+Perfect for GMs who need to adjust a roll behind the scenes, or for handling mechanics like *Portent*.
 * **Right-Click** any die to open a dialog and manually set the face value (e.g., force a d20 to be a "20").
 * This feature handles Advantage/Disadvantage correctly (re-calculating the drop/keep logic).
 
