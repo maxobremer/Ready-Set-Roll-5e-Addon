@@ -6,7 +6,7 @@
 
 # Ready Set Roll 5e Addon
 
-**Ready Set Roll 5e Addon** is an extension for the wonderfull [Ready Set Roll 5e](https://github.com/MangoFVTT/fvtt-ready-set-roll-5e) module. It adds interactive dice manipulation, allowing you to reroll dice by clicking them, manually "fudge" results, and apply retroactive bonuses (like *Sneak Attack* or *Bardic Inspiration*) directly from the chat card.
+**Ready Set Roll 5e Addon** is an extension for the wonderfull [Ready Set Roll 5e](https://github.com/MangoFVTT/fvtt-ready-set-roll-5e) module by [Mangó](https://github.com/MangoFVTT). It adds interactive dice manipulation, allowing you to reroll dice by clicking them, manually "fudge" results, and apply retroactive bonuses (like *Sneak Attack* or *Bardic Inspiration*) directly from the chat card.
 
 ![Foundry v13](https://img.shields.io/badge/Foundry-v13-orange)
 
